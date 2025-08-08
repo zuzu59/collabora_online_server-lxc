@@ -1,7 +1,9 @@
 # petit script pour démarrer Collabora Online Server
-# zf250111.1500
+# zf250111, zf250808.1436
 
-# sources: https://collabora-online-for-nextcloud.readthedocs.io/en/latest/install/
+# sources: 
+# https://www.collaboraonline.com/fr/code/
+# https://collabora-online-for-nextcloud.readthedocs.io/en/latest/install/
 
 
 docker run -t -d -p 9980:9980 \
